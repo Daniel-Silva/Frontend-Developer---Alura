@@ -1,0 +1,84 @@
+ @charset 'utf-8';
+
+        /* 
+            ARROW UP
+                    */
+
+@-webkit-keyframes arrowUp {
+    from {margin-top: 0;}
+    to {margin-top: -25px;}
+}
+
+@keyframes arrowUp {
+    from {margin-top: 0;}
+    to {margin-top: -25px;}
+}
+
+.arrow-up:hover {
+    animation-name: arrowUp;
+    animation-duration: .2s;
+    animation-timing-function: ease-in-out;
+}
+
+        /*
+            ARROW DOWN
+                        */
+
+@-webkit-keyframes arrowDown {
+    from {bottom: 50px;}
+    to {bottom: 10px;}
+}
+
+@keyframes arrowDown {
+    from {bottom: 50px;}
+    to {bottom: 10px;} 
+}
+
+.arrou-down {
+    animation-name: arrowDown;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+        /*  
+            NAVIGATION DOWN
+                            */
+
+@-webkit-keyframes navigationDown {
+    from {height: 0;}
+    to {height: 150px;}
+}
+
+@keyframes navigationDown {
+    from {height: 0;}
+    to {height: 150px;}
+}
+
+.nav-open {
+    animation-name: navigationDown;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+        /*  
+            NAVIGATION UP
+                            */
+
+@-webkit-keyframes navigationUp {
+    from {height: 150px;}
+    to {height: 0;}
+}
+
+@keyframes navigationUp {
+    from {height: 150px;}
+    to {height: 0;}
+}
+
+.nav-close {
+    animation-name: navigationUp;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+

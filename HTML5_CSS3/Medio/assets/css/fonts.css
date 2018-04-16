@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+
+@font-face {
+    font-family: 'SoucerSansPro';
+    src: url('../fonts/SoucerSansPro.ttf');
+}
+
+@font-face {
+    font-family: 'PoiretOne';
+    src: url('..fonts/PoirentOne.ttf');
+}

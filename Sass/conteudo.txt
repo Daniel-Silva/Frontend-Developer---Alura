@@ -1,0 +1,102 @@
+<div class="container-service">
+                    <h2>Webdesign Responsivo</h2>
+                    <p>Desenvolvimento de sites responsivos que se adaptam à sua necessidade proporcionando melhor experiência e usabilidade.
+                    </p>
+                </div>
+
+                <div class="container-service">
+                    <h2>Marketing Digital</h2>
+                    <p>É! com a internet a cada dia mais presente na vida de todos, o marketing digital trabalha com as principais maneiras que as empresas tem para se comunicar com o público de forma direta, personalizada, e no momento certo.</p>
+                </div>
+
+                <div class="container-service">
+                    <h2>E-Commerce</h2>
+                    <p>Desenvolvimento de Lojas Virtuais e Sistemas exclusivos para a sua empresa.</p>
+                </div>
+
+                <div class="container-service">
+                    <h2>Email Marketing</h2>
+                    <p></p>
+                </div>
+
+                <div class="container-service">
+                    <h2>Otimização SEO</h2>
+                    <p>Otimização de websites para melhor rankeamento nos sistemas de busca.</p>
+                </div>
+                
+                <div class="container-service">
+                    <h2>Solucionar Desafios!</h2>
+                    <p>Se o seu negócio é um verdadeiro desafio para ser desenvolvido, ficarei muito feliz em lhe ajudar.</p>
+                </div>
+                
+                <div>
+                    <img src="assets/img/indicator.png">
+                </div>
+                
+            </div>
+            
+        </section id="portfolio">
+        
+            <div>
+                
+                <div class="txt-title">
+                    <h3>projetos incríveis!</h3>
+                    <h1>Meu Portfólio</h1>
+                </div>
+<div class="txt-title">
+                    <h3>sobre mim,</h3>
+                    <h1>Olá!</h1>
+                </div>
+                
+                <div>
+                    
+                    <div class="text-control">                   
+                        <div class="content-control">
+                            <p>Eu sou UX designer & Webdeveloper, que amo design limpo, simples e riginal. Também gosto de criar identidades de marcas e soluções criativas para web e app!
+                            </p>
+                        </div>
+
+                        <div class="line-item"></div>
+
+                        <div class="content-control">
+                            <p>Tenho 29 anos, sou formado em Design Gráfico. Pai do pequeno Matheus que me inspira todos os dias. Amo o que faço e tenho orgulho de onde cheguei até aqui!
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="single-image img-width">
+                        <img src="assets/img/member-1.jpg" alt="Imagem Daniel Silva">
+                        
+                        <div class="image-overlay">               
+                            <a href="">Daniel Silva</a>
+                            <h2>UX Designer & Webdeveloper</h2>
+                            <h4>'Sou completo até onde cheguei!'</h4> 
+                        </div> 
+                    </div>
+                </div>
+                
+                <div>
+                    <img src="assets/img/indicator.png">
+                </div>
+            
+            </div>
+        
+        </section>
+        
+        <section class="contato">
+            
+            <div class="container">
+            
+                <div class="txt-title">
+                    <h3>disponível para projetos Freelancer.</h3>
+                    <h1>Contatos</h1>
+                </div>
+                
+                <div>
+                    <h3>Diga Olá!</h3>
+                </div>
+
+    font-family: icomoon;
+    content: '\e602';
+    line-height: 20px;
+    font-size: 12px;
